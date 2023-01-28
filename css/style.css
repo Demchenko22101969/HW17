@@ -7,7 +7,7 @@
 .ul {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: hidden;/*при переполнении, содержимое не будет показано*/
     background-color: #f1ee05;
 }
 
