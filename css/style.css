@@ -4,7 +4,7 @@
     background-color: black;
 }
 
-.ul {
+.list {
     margin: 0;
     padding: 0;
     overflow: hidden;/*при переполнении, содержимое не будет показано*/
