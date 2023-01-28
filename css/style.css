@@ -17,17 +17,18 @@ li {
     float: left;
     /*каждый следующий элемент списка должен размещаться справа от предыдущего*/
     margin: 0;
+   
 }
 
 li a {
     font-size: larger;
-    color: blue;
+    color: rgb(107, 245, 43);
     text-align: center;
     padding: 16px;
     text-decoration: none;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 li a:hover {
-    background-color: #f0ec0f;
+    background-color: #a54006bd;
 }
